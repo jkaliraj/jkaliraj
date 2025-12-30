@@ -4,6 +4,7 @@
 🧠 Software Firmware Engineer at Hewlett-Packard  
 ⚙️ Thriving in C++ and embedded environments for performance & reliability  
 🌱 Learning LLMs, AI tools, and modern architectures
+🚀 Explore my journey at [my portfolio](https://jkaliraj.github.io)
 
 🔗 &nbsp;**Connect with me**
 
