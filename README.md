@@ -10,8 +10,13 @@
 <p align="left">
 <a href="https://linkedin.com/in/jkaliraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="Linkedin" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/jkaliraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="Discord" height="30" width="40" /></a>
+</p>
 
-<details>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=jkaliraj&theme=github_dark&hide_border=false" /><br/>
+</p>
+
+<details open>
   <summary><b>🛠️ Languages and Tools</b></summary>
   <br/>
   <div align="center">
@@ -50,7 +55,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
 </div>
-
 </details>
 
 💖 &nbsp;**Be Part of the Magic**
