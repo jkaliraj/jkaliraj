@@ -57,15 +57,13 @@
 </div>
 </details>
 
-💖 &nbsp;**Be Part of the Magic**  
+💖 &nbsp;**Be Part of the Magic**
 
 <p align="left" style="display: flex; gap: 5px; align-items: center;">
-<a href="upi://pay?pa=kaliraj.j@pingpay&pn=Kaliraj&am=100&cu=INR" target="_blank">
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-google-pay-is-the-fast-simple-way-to-pay-online-in-stores-and-more-logo-color-tal-revivo.png" height="45" alt="Donate with GPay" />
-</a>&nbsp;
-<a href="https://buymeacoffee.com/kaliraj"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" height="29" alt="☕Buy Me a Coffee"></a>&nbsp;
-<a href="https://ko-fi.com/kaliraj"><img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_dark.png" width="150" height="40" alt="Treat me to coffee! ❤️"></a>&nbsp;
-<a href="https://paypal.me/kaliraj"><img src="https://img.icons8.com/skeuomorphism/96/paypal.png" height="45" alt="Donate with PayPal" /></a>&nbsp;
+<a href="upi://pay?pa=kaliraj.j@pingpay&pn=Kaliraj&am=100&cu=INR"><img src="https://purepng.com/public/uploads/large/purepng.com-google-pay-gpay-logobrandlogobrand-logoiconssymbolslogosgoogle-681522937443muxmx.png" height="25" alt="GPay"></a>&nbsp;
+<a href="https://ko-fi.com/kaliraj"><img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_dark.png" width="160" height="29" alt="Treat me to coffee! ❤️"></a>&nbsp;
+<a href="https://buymeacoffee.com/kaliraj"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" height="26" alt="☕Buy Me a Coffee"></a>&nbsp;
+<a href="https://paypal.me/kaliraj"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-200px.png" height="25" alt="Donate with PayPal" /></a>&nbsp;
 </p>
 <br/>
 
