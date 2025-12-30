@@ -1,4 +1,4 @@
-&nbsp;**Hi there** <a href="https://www.jkaliraj.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>
+&nbsp;**Hi there** <a href="https://www.jkaliraj.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%" /></a>
 
 🤖 Passionate about AI & Machine Learning, building intelligent systems  
 🧠 Software Firmware Engineer at Hewlett-Packard  
@@ -57,13 +57,20 @@
 </div>
 </details>
 
-💖 &nbsp;**Be Part of the Magic**
+💖 &nbsp;**Be Part of the Magic**  
 
-![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black&link=https://buymeacoffee.com/jkaliraj)
-![Ko-fi](https://img.shields.io/badge/-Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white&link=https://ko-fi.com/jkaliraj)
+<p align="left" style="display: flex; gap: 5px; align-items: center;">
+<a href="upi://pay?pa=kaliraj.j@pingpay&pn=Kaliraj&am=100&cu=INR" target="_blank">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-google-pay-is-the-fast-simple-way-to-pay-online-in-stores-and-more-logo-color-tal-revivo.png" height="45" alt="Donate with GPay" />
+</a>&nbsp;
+<a href="https://buymeacoffee.com/kaliraj"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" height="29" alt="☕Buy Me a Coffee"></a>&nbsp;
+<a href="https://ko-fi.com/kaliraj"><img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_dark.png" width="150" height="40" alt="Treat me to coffee! ❤️"></a>&nbsp;
+<a href="https://paypal.me/kaliraj"><img src="https://img.icons8.com/skeuomorphism/96/paypal.png" height="45" alt="Donate with PayPal" /></a>&nbsp;
+</p>
+<br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jkaliraj/jkaliraj/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jkaliraj/jkaliraj/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jkaliraj/jkaliraj/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jkaliraj/jkaliraj/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jkaliraj/jkaliraj/output/pacman-contribution-graph.svg" />
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jkaliraj/jkaliraj/output/pacman-contribution-graph.svg" />
 </picture>
