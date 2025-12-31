@@ -63,7 +63,7 @@
 <a href="https://jkaliraj.github.io/myupi/#/pay?pa=kaliraj.j%40pingpay"><img src="https://purepng.com/public/uploads/large/purepng.com-google-pay-gpay-logobrandlogobrand-logoiconssymbolslogosgoogle-681522937443muxmx.png" height="25" alt="GPay"></a>&nbsp;
 <a href="https://ko-fi.com/kaliraj"><img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_dark.png" width="160" height="29" alt="Treat me to coffee! ❤️"></a>&nbsp;
 <a href="https://buymeacoffee.com/kaliraj"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" height="26" alt="☕Buy Me a Coffee"></a>&nbsp;
-<a href="https://paypal.me/kaliraj"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-200px.png" height="25" alt="Donate with PayPal" /></a>&nbsp;
+<a href="https://paypal.me/kalirajj"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-200px.png" height="25" alt="Donate with PayPal" /></a>&nbsp;
 </p>
 <br/>
 
