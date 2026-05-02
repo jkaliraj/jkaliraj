@@ -9,13 +9,19 @@
 🔗 &nbsp;**Connect with me**
 
 <p align="left">
-<a href="https://linkedin.com/in/jkaliraj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="Linkedin" height="30" width="40" /></a>
-<a href="https://topmate.io/jkaliraj/" target="_blank"><img align="center" src="https://topmate.io/cdn-cgi/image/width=640,quality=90/https://static.topmate.io/udpg1suHjRq3SU9U4yKFZ1.png" alt="Topmate" height="35" width="35" /></a>
+<a href="https://linkedin.com/in/jkaliraj" target="_blank" style="text-decoration:none;">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+       alt="LinkedIn" height="30"
+       style="display:inline-block; vertical-align:middle;" /></a>
+&nbsp;
+<a href="https://topmate.io/jkaliraj/" target="_blank" style="text-decoration:none;">
+  <img src="https://topmate.io/cdn-cgi/image/width=640,quality=90/https://static.topmate.io/udpg1suHjRq3SU9U4yKFZ1.png"
+       alt="Topmate" height="30"
+       style="display:inline-block; vertical-align:middle;" /></a>
 </p>
 
-
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=jkaliraj&theme=github_dark&hide_border=false" /><br/>
+  <img src="https://streak-stats.demolab.com/?user=jkaliraj&theme=github_dark&hide_border=false" /><br/>
 </p>
 
 <details open>
@@ -61,13 +67,27 @@
 
 💖 &nbsp;**Be Part of the Magic**
 
-<p align="left" style="display: flex; gap: 5px; align-items: center;">
-<a href="https://jkaliraj.github.io/myupi/#/pay?pa=kaliraj.j%40pingpay"><img src="https://purepng.com/public/uploads/large/purepng.com-google-pay-gpay-logobrandlogobrand-logoiconssymbolslogosgoogle-681522937443muxmx.png" height="25" alt="GPay"></a>&nbsp;
-<a href="https://ko-fi.com/kaliraj"><img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_dark.png" width="160" height="29" alt="Treat me to coffee! ❤️"></a>&nbsp;
-<a href="https://buymeacoffee.com/kaliraj"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" height="26" alt="☕Buy Me a Coffee"></a>&nbsp;
-<a href="https://paypal.me/kalirajj"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-200px.png" height="25" alt="Donate with PayPal" /></a>&nbsp;
+<p align="left">
+<a href="https://jkaliraj.github.io/myupi/#/pay?pa=kaliraj.j%40pingpay" target="_blank" style="text-decoration:none;">
+  <img src="https://purepng.com/public/uploads/large/purepng.com-google-pay-gpay-logobrandlogobrand-logoiconssymbolslogosgoogle-681522937443muxmx.png"
+       height="22" alt="GPay"
+       style="display:inline-block; vertical-align:middle;" /></a>
+&nbsp;
+<a href="https://ko-fi.com/kaliraj" target="_blank" style="text-decoration:none;">
+  <img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_dark.png"
+       width="130" alt="Treat me to coffee! ❤️"
+       style="display:inline-block; vertical-align:middle;" /></a>
+&nbsp;
+<a href="https://buymeacoffee.com/kaliraj" target="_blank" style="text-decoration:none;">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+       width="100" alt="☕Buy Me a Coffee"
+       style="display:inline-block; vertical-align:middle;" /></a>
+&nbsp;
+<a href="https://paypal.me/kalirajj" target="_blank" style="text-decoration:none;">
+  <img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-200px.png"
+       height="22" alt="Donate with PayPal"
+       style="display:inline-block; vertical-align:middle;" /></a>
 </p>
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jkaliraj/jkaliraj/output/pacman-contribution-graph-dark.svg" />
